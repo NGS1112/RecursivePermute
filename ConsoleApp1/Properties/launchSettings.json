@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp1": {
+      "commandName": "Project",
+      "commandLineArgs": "abcd 0 show"
+    }
+  }
+}
