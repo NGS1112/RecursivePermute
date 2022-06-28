@@ -11,7 +11,6 @@
 using System;
 using System.Diagnostics;
 using System.Collections.Generic;
-using System.Threading;
 using System.Threading.Tasks;
 
 namespace ConsoleApp1
@@ -23,6 +22,7 @@ namespace ConsoleApp1
 
         // Global variable to track number of tasks created
         static private int taskCount = 0;
+
         static void Main(string[] args)
         {
             // Checks for valid number of arguments
